@@ -1,0 +1,10 @@
+{
+  "name": "main",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^16.1.1"
+  }
+}
